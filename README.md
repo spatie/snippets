@@ -1,6 +1,6 @@
 # Snippets
 
-We aspire to put as much of our code as realistically possible in packages. However, in some cases code can be either to specific to a project, or isn't package-worthy for various reasons. The goal of this repository is to have a centralized location for smaller code snippets and recipes that fall in to that category.
+We aspire to put as much of our code as realistically possible in packages. However, in some cases code can be either to specific to a project, or simply isn't package-worthy for other reasons. The goal of this repository is to have a centralized location for smaller code snippets and recipes that fall in to that category.
 
 ## Contributing
 
